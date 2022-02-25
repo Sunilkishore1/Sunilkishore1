@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sunilkishore1
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python, html and css.
+- 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on html and css.
 - 📫 How to reach me sunilkishore1512@gmail.com
 
